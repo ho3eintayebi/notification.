@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "name":"hosein",
+        "family":"teyebi"
+    }
+    ,
+    {
+        "id":2,
+        "name":"amir",
+        "family":"teyebi"
+    }
+    ,
+    {
+        "id":3,
+        "name":"al",
+        "family":"ahmadi"
+    }
+]

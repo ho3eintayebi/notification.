@@ -1,0 +1,38 @@
+html{
+    font-size: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.name{
+    width: 50%;
+    height: 400px;
+    background-color: rgb(35, 35, 35);
+    border-radius: 5px;
+    border: 3px solid rgb(124, 124, 124);
+    margin: 10% auto;
+}
+.name p{
+    font-size: 1.2em;
+    margin:3% 36%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(213, 213, 213);
+
+}
+.p1{
+    margin: 5% auto;
+    font-size: 1.5em;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(213, 213, 213);
+}
+.nametxt{
+    margin:0px  5%;
+}
+.fname{
+    margin:0px  5%;
+}
+.date{
+    margin:0px  5%;
+}
